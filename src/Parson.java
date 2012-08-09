@@ -1,5 +1,3 @@
-package review1;
-
 public class Parson{
 
 	//クラス変数
