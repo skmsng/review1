@@ -30,7 +30,7 @@ public class Parson{
 
 	//氏：ラストネーム＿名：ファーストネーム
 	public void showName(){
-		System.out.println(uji + ":" + lastName + " " + na ":" + firstName);
+		System.out.println(uji + ":" + lastName + " " + na + ":" + firstName);
 	}
 
 
